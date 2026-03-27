@@ -65,3 +65,8 @@ streamlit run app.py
 
 ---
 
+DEMO 
+
+<img width="1920" height="2307" alt="image" src="https://github.com/user-attachments/assets/f1801c58-2eef-4fec-a568-3c8699e7dcfb" />
+
+
